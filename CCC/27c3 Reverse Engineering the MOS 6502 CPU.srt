@@ -108,8 +108,7 @@
 00:02:34,016 --> 00:02:40,068
 Apple I, Apple II,  BBC Micro, 全系列的Commodore
 
-28
-00:02:40,068 --> 00:02:48,939
+2800:02:40,068 --> 00:02:48,939
 Atari全系8位机 //Gaming console 和 System？
 任天堂的NES和SNES，以及……
 
@@ -129,20 +128,24 @@ Bender和Flexo！（《飞出个未来》中的角色）
 00:03:10,459 --> 00:03:13,724
 other cpus which were kind of successful
 like the z80 but if you compare them
+像Z80等成功的CPU，如果你将它们相比较
 
 33
 00:03:13,724 --> 00:03:17,642
 672 had sixty percent few transistors is
 what's much more optimized it wasn't as
+672有多达60%的晶体管得到更多的优化，
 
 34
 00:03:17,642 --> 00:03:18,655
 powerful but it was even faster
+它尽管性能并不是非常强劲，但是确实更快了
 
 35
 00:03:18,655 --> 00:03:21,793
 it was more constrained but it was also
 more elegant and some people would say
+它更受限制，但它
 
 36
 00:03:21,793 --> 00:03:24,663
